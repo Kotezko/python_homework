@@ -1,9 +1,9 @@
 # Реализуйте алгоритм перемешивания списка. (рандомно поменять местами элементы списка между собой)
 
 import random 
-
+n = 5
 nums = []
-for i in range(-5, 5+1):
+for i in range(-n, n+1):
     nums.append(i)
 print(f"список элементов: {nums}")
 for i in nums:
