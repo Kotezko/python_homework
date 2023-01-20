@@ -24,7 +24,7 @@ def botMove(quantity):
     return quantity
 
 
-mode = int(input("выберете режим игры 1 - игрок vs игрокб 2 - игрок vs бот"))
+mode = int(input("выберете режим игры 1 - игрок vs игрокб, 2 - игрок vs бот, 3 - игрок vs умный бот"))
 quantity = 2021 # количество конфет
 if mode == 1: 
     gamer1 = input("введите имя: ")
