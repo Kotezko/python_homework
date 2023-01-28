@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": oleg,
+        "surname": ivanov,
+        "position": инженер,
+        "salary": 123
+
+    },
+    {
+        "id": 2,
+        "name": ivan,
+        "surname": ivanov,
+        "position": инженер,
+        "salary": 123
+
+    },
+    {
+        "id": 3,
+        "name": olga,
+        "surname": ivanova,
+        "position": директор,
+        "salary": 321
+
+    },
+    {
+        "id": 4,
+        "name": olga,
+        "surname": tres,
+        "position": инженер,
+        "salary": 432
+
+    },
+    {
+        "id": 5,
+        "name": marina,
+        "surname": ibragimova,
+        "position": рабочий,
+        "salary": 45
+
+    },
+    {
+        "id": 6,
+        "name": oleg,
+        "surname": ghbt,
+        "position": рабочий,
+        "salary": 543
+
+    },
+    {
+        "id": 7,
+        "name": ivan,
+        "surname": ivanov,
+        "position": заместитель директора,
+        "salary": 321
+
+    },
+    {
+        "id": 8,
+        "name": oleg,
+        "surname": plotski,
+        "position": прораб,
+        "salary": 234
+
+    },
+    {
+        "id": 9,
+        "name": Oleg,
+        "surname": lego,
+        "position": рабочий,
+        "salary": 43234
+
+    },
+    {
+        "id": 10,
+        "name": ivan,
+        "surname": ivanov,
+        "position": прораб,
+        "salary": 5678
+
+    },
+    {
+        "id": 11,
+        "name": ibragim,
+        "surname": ibragimov,
+        "position": прораб,
+        "salary": 234
+
+    }
+]

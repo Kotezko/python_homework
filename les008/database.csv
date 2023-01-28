@@ -1,0 +1,12 @@
+id;name;surname;position;salary
+1;oleg;ivanov;инженер;123
+2;ivan;ivanov;инженер;123
+3;olga;ivanova;директор;321
+4;olga;tres;инженер;432
+5;marina;ibragimova;рабочий;45
+6;oleg;ghbt;рабочий;543
+7;ivan;ivanov;заместитель директора;321
+8;oleg;plotski;прораб;234
+9;Oleg;lego;рабочий;43234
+10;ivan;ivanov;прораб;5678
+11;ibragim;ibragimov;прораб;234
